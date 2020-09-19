@@ -23,14 +23,17 @@ function Landing(){
             <div id="page-landing-content" className="container2">
                 <div id="black-rectangle">
                     <h2>Conta digital do Nubank</h2>
-                    <h3>Rende mais que a poupança, sem taxa de manutenção nem tarifas escondidas</h3>
+                    <h3>Rende mais que a poupança, sem taxa de manutenção nem tarifas escondidas.</h3>
 
                     <img src={lefthand} alt="mao esquerda segurando celular"/>
                 </div>
+
                 <div id="white-rectangle">
                 <h2>Cartão de Crédito</h2>
-                    <img src={floatingcards} alt="cartoes flutuando"/>
-                   <h3>Moderno, simples e gratuito. Tudo para deixar o controle com você.</h3>
+                <h3>Moderno, simples e gratuito. Tudo para deixar o controle com você.</h3>
+                <img src={floatingcards} alt="cartoes flutuando"/>
+                
+            
                 </div>
             </div>                 
         </div>        
